@@ -13,8 +13,8 @@ p {
 }
 
 .croissant-pic {
+  border-radius: 60px;
   display: block;
-  margin: 20 20;
   max-width: 100%;
   padding: 40px;
 }
